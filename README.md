@@ -1,4 +1,4 @@
-# THEESHOP
+# THEeSHOP
 This project is an e-commerce system where users can check products from different categories, place orders, and make payments using **MPesa Daraja**. The project also includes **Faker** for generating sample products dynamically.
 
 ## Features
